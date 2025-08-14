@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../Dashboard"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../README.md"
+		},
+		{
+			"path": "../Scripts"
+		},
+		{
+			"path": "../sql"
+		},
+		{
+			"path": "../visuals"
+		}
+	]
+}
